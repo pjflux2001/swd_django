@@ -19,5 +19,5 @@ six==1.11.0
 typing==3.6.4
 django-import-export==1.0.0
 requests==2.19.1
-Pillow==5.2.0
+Pillow==6.2.0
 python-dateutil==2.7.5
