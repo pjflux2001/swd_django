@@ -1,4 +1,4 @@
-Django==2.1.5
+Django==2.2.10
 django-braces==1.12.0
 django-cors-headers==2.1.0
 django-jet==1.0.7
