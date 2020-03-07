@@ -15,7 +15,7 @@ import os
 from .config import PRODUCTION, DB_NAME, DB_PASSWORD, DB_USER
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 from tools.dev_info import SECRET_KEY
 from tools.dev_info import EMAIL_HOST_PASSWORD
